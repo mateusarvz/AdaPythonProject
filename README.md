@@ -2,7 +2,7 @@
 <h3 align="left">Integrantes:
 <p align="left">
 <p align="left">
--  Mateus: **mateusalves.prbr@gmail.com**
+-  Mateus: <mateusalves.prbr@gmail.com>
 <p align="left">
 -  Orlando
 <p align="left">
@@ -15,5 +15,5 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:
+<h3 align="left">Linguagem:
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
