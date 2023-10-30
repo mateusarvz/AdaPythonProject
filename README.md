@@ -1,9 +1,13 @@
 <h3 align="center">Logica de Programação I</h3>
-<h3 align="left">Integrantes:</h3>
+<h3 align="left">Integrantes:
 -  Mateus: **mateusalves.prbr@gmail.com**
+<p align="left">
 -  Orlando
+<p align="left">
 -  Melquisedeque
+<p align="left">
 -  Wilza
+<p align="left">
 -  Stefson
 
 <p align="left">
