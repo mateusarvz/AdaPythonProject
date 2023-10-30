@@ -1,6 +1,10 @@
 <h3 align="center">Logica de Programação I</h3>
-
--  Email: **mateusalves.prbr@gmail.com**
+<h3 align="left">Integrantes:</h3>
+-  Mateus: **mateusalves.prbr@gmail.com**
+-  Orlando
+-  Melquisedeque
+-  Wilza
+-  Stefson
 
 <p align="left">
 </p>
