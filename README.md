@@ -1,8 +1,8 @@
 <h3 align="center">Logica de Programação I
-<h3 align="left">Integrantes:
+<h3 align="left">Integrantes:</h3>
 <p align="left">
 <p align="left">
--  Mateus: <**mateusalves.prbr@gmail.com**>
+-  Mateus **mateusalves.prbr@gmail.com**
 <p align="left">
 -  Orlando
 <p align="left">
